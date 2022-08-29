@@ -1,2 +1,8 @@
 # Atev22-PCB
-PCB pictures and gerber files of Atev-22's CMS and Telemetry Manager
+PCB and Render pictures of Atev-22's CMS and Telemetry Management Circuit
+## Top (Render and PCB)
+### Render
+![alt text](./img/top_render.jpg)
+
+### PCB
+![alt text](./img/top_pcb.jpg)
